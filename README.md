@@ -135,6 +135,4 @@ This project demonstrates the use of:
 - Basic exam evaluation and grade calculation
 
 ## Author
-**Your Name**
-
-> Replace `Your Name` with your name before publishing the repository.
+VANAMALA YASWANTH
